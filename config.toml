@@ -1,4 +1,5 @@
-baseURL = 'https://github.com/Moomln/blog'
+relativeURLs = true
+baseURL = 'https://example.com/'
 languageCode = 'en-us'
 title = 'Infozar'
 theme = "PaperMod" 
