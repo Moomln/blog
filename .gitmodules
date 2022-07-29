@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/Moomln/infozar.git
+	branch = main
