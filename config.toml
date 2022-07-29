@@ -1,4 +1,4 @@
-baseURL = 'https://github.com/Moomln/infozar.git'
+baseURL = 'https://github.com/Moomln/blog'
 languageCode = 'en-us'
 title = 'Infozar'
 theme = "PaperMod" 
