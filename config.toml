@@ -1,0 +1,4 @@
+baseURL = 'https://github.com/Moomln/infozar.git'
+languageCode = 'en-us'
+title = 'Infozar'
+theme = "PaperMod" 
